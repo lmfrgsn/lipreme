@@ -1,14 +1,18 @@
-body{
+* {
+  box-sizing: border-box;
+}
+
+body {
   font-family: 'Open Sans Condensed', sans-serif;
   padding: 20px 60px;
   color: #333;
 }
 
-a{
+a {
   color: #333;
   text-decoration: none;
 }
 
-a:hover{
+a:hover {
   color: #db2222;
 }
